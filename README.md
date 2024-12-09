@@ -11,6 +11,9 @@
 
 📫 **How to reach me**: [aditimithila7@gmail.com](mailto:aditimithila7@gmail.com)
 
+🔗 **Connect with me on LinkedIn**:  
+[![LinkedIn] https://www.linkedin.com/in/mithila-ghosh-69ab44336/
+
 🌱 **Know about my experiences**: [![Portfolio]https://sites.google.com/view/mithila-ghosh?usp=sharing
 
 ⚡ **Fun fact**:  I love solving puzzles and exploring data insights!

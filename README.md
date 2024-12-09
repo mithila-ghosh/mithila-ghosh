@@ -17,3 +17,7 @@
 🌱 **Know about my experiences**: [![Portfolio]https://sites.google.com/view/mithila-ghosh?usp=sharing
 
 ⚡ **Fun fact**:  I love solving puzzles and exploring data insights!
+
+## Mithila's GitHub Stats
+
+![Sadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiaaktersinthia&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)

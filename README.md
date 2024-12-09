@@ -3,8 +3,8 @@
 ### Aspiring Data Scientist | Machine Learning Enthusiast
 
 🔭 **All of my projects are available at**:  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/mithila)
-
+[[[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/mithila)](https://github.com/mithila-ghosh?tab=repositories)
+](https://github.com/mithila-ghosh?tab=repositories)
 💬 **Ask me about**:  
 - Machine Learning  
 - Data Analysis  

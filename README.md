@@ -7,7 +7,11 @@
 💬 **Ask me about**:  
 - Machine Learning  
 - Data Analysis  
-- Python Programming  
+- Python Programming
+- Data Science
+- Advanced Professional Excel Work
+- Data Visualizations
+- Data Collection(Manualy/Generated)  
 
 📫 **How to reach me**: [aditimithila7@gmail.com](mailto:aditimithila7@gmail.com)
 

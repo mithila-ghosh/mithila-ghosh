@@ -24,5 +24,5 @@
 
 ## Mithila's GitHub Stats
 
-![Mithila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithila&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
+![Mithila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithila-ghosh&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
 
